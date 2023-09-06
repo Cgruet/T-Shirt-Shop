@@ -3,7 +3,7 @@ I previously complete this project in school.
 This project cover many of the basics topics in programming and was the first project I did when learning Java.
 I'm currently working on repeating this project in C#.
 
-##Class Topics
+## Class Topics
 - Intro to Command line
 - Intro to Version Control
 - Intro to Primitve Variable
